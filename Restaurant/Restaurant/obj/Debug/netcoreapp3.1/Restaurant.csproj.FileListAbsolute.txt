@@ -1,0 +1,23 @@
+D:\abdo aast\Term 5\Advanced programming\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.AssemblyReference.cache
+D:\abdo aast\Term 5\Advanced programming\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\abdo aast\Term 5\Advanced programming\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+D:\abdo aast\Term 5\Advanced programming\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+D:\abdo aast\Term 5\Advanced programming\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+D:\abdo aast\Term 5\Advanced programming\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+D:\abdo aast\Term 5\Advanced programming\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+D:\abdo aast\Term 5\Advanced programming\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+D:\abdo aast\Term 5\Advanced programming\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+D:\abdo aast\Term 5\Advanced programming\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+D:\abdo aast\Term 5\Advanced programming\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+D:\abdo aast\Term 5\Advanced programming\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+D:\abdo aast\Term 5\Advanced programming\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+D:\abdo aast\Term 5\Advanced programming\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache
+C:\Users\Mariam Hossam\Desktop\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\Mariam Hossam\Desktop\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+D:\Restaurant Project using c++\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.AssemblyReference.cache
+D:\Restaurant Project using c++\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Restaurant Project using c++\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+D:\Restaurant Project using c++\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+D:\Restaurant Project using c++\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+D:\Restaurant Project using c++\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+D:\Restaurant Project using c++\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
